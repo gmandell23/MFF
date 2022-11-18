@@ -3,4 +3,5 @@
 Math 36: Mathematical Models in Social Sciences.
 Fall 2022, Dartmouth College 
 
+## Organization
 The code in this repo is contained in Jupyter Notebook (.ipynb) files. 
